@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<carta>
+    <grup>
+        <nom>Entrants</nom>
+        <plat>
+            <nom>Seitons</nom>
+            <descripcio>Ració de seitons frescos amb all i julivert</descripcio>
+            <preu>7,5€</preu>
+            <imagelink>https://static.bloks.cat/wp-content/uploads/2015/09/seito_vinagre.jpg</imagelink>
+        </plat>
+        <plat>
+            <nom>Escudella i Carn d'Olla</nom>
+            <descripcio>Un plat de caldo tradicional fet amb carn, verdures i llegums, sovint servit en dues parts: una sopa de brou amb pasta i, d'altra banda, les carns i verdures.</descripcio>
+            <preu>8,0€</preu>
+            <imagelink>https://mireiacasamada.com/wp-content/uploads/2020/12/escudella-i-carn-dolla.jpg</imagelink>
+        </plat>
+        <plat>
+            <nom>Esqueixada de Bacallà</nom>
+            <descripcio>Amanida freda de bacallà dessalat, acompanyada de pebrots, ceba, tomàquet i olives negres, amanida amb oli d'oliva.</descripcio>
+            <preu>7,0€</preu>
+            <imagelink>https://cdn.recetasderechupete.com/wp-content/uploads/2020/09/Esqueixada-bacalao.jpg</imagelink>
+        </plat>
+        <plat>
+            <nom>Calçots amb Salsa Romesco</nom>
+            <descripcio>Cebes tendres (calçots) torrades al foc i servides amb una salsa romesco feta de tomàquet, ametlles, avellanes i pebrots vermells.</descripcio>
+            <preu>10,0€</preu>
+            <imagelink>https://samanthavallejonagera.com/wp-content/uploads/2023/05/20180129-Receta.jpg</imagelink>
+        </plat>
+        <plat>
+            <nom>Crema Catalana</nom>
+            <descripcio>Postre tradicional semblant a la crème brûlée, amb una capa de caramel cruixent sobre una crema de rovell d'ou amb tocs de canyella i llimona.</descripcio>
+            <preu>5,0€</preu>
+            <imagelink>https://recetasdecocina.elmundo.es/wp-content/uploads/2023/10/crema-catalana.jpg</imagelink>
+        </plat>
+    </grup>
+</carta>
